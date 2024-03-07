@@ -16,4 +16,5 @@ div {
     align-items: center;
     padding: 5px;
     margin: auto;
+    outline: 5px solid #ddd;
 }
